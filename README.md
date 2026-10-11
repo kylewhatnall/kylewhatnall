@@ -6,7 +6,7 @@ Most of what I build is the plumbing behind marketing. Intake forms turn into br
 
 ## Builds
 
-**[Halden GTM Desk](https://github.com/kylewhatnall/halden-gtm-desk)**. A hosted demo of the loop I run as a PMM. A feature intake becomes a structured GTM brief, the brief becomes scored marketing bets, and approved bets land in a campaign queue. FastAPI, streaming model calls, skill files as markdown, offline tests, caps on a public key. Invented company, invented data, from scratch.
+**[Halden GTM Desk](https://github.com/kylewhatnall/halden-gtm-desk)** ([live demo](https://halden-gtm-desk.onrender.com)). A hosted demo of the loop I run as a PMM. A feature intake becomes a structured GTM brief, the brief becomes scored marketing bets, and approved bets land in a campaign queue. FastAPI, streaming model calls, skill files as markdown, offline tests, caps on a public key. Invented company, invented data, from scratch.
 
 More at [kylewhatnall.com](https://kylewhatnall.com).
 
