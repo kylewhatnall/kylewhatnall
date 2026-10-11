@@ -1,6 +1,6 @@
 # Kyle Whatnall
 
-Product marketer who builds the systems he ships with. Senior PMM at a B2B software company, where I run go-to-market for features, integrations and launches and lead a small team. Before that, three years helping scale a sports brand from employee seven to nine-figure revenue, sports PR at an agency, and an AI workflow program. I also play professional pickleball on the PPA Tour and captain a Major League Pickleball team, which is where I learned to ship under a deadline that doesn't move.
+Product marketer who builds the systems he ships with. Senior PMM at a B2B software company, where I run go-to-market for features, integrations and launches and lead a small team. Before that, three years helping scale a sports brand from employee seven to nine-figure revenue, sports PR at an agency, and an AI workflow program. I also played professional pickleball on the PPA Tour and captained a Major League Pickleball team, which is where I learned to ship under a deadline that doesn't move.
 
 Most of what I build is the plumbing behind marketing. Intake forms turn into briefs, briefs turn into scored experiments, and the prompts live in version control so the output can be improved like code.
 
